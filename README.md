@@ -1,1 +1,1 @@
-# nmr_toolbox
+# NMR Toolbox
